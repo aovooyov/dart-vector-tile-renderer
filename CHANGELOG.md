@@ -1,3 +1,7 @@
+## 6.0.0
+
+- Updated dependencies
+
 ## 5.0.1
 
 * support labels and icon rotation aligned with viewport
